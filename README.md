@@ -6,6 +6,9 @@ This repository contains the initial stage of a student project to build a clone
 
 <center><h3>Repository Contents by Project Task</h3> </center>
 
+![Project image](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
 | 0: Authors/README File | [AUTHORS](https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS) | Project authors |
